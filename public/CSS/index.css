@@ -1,0 +1,197 @@
+/* General body styling */
+
+body, h1, h2, h3, h4, h5, h6 {
+  font-family: "Verdana", sans-serif;
+}
+
+body, html {
+  height: 100%;
+  color: #777;
+}
+
+body {
+  margin: 0;
+}
+
+/* Styling the taskbar */
+
+#top{
+  width: 100%;
+  color: #D1C8C8;
+  background: #D1C8C8;
+  padding-bottom: 13px;
+  margin-bottom: -4px;
+  display: inline-block;
+}
+
+.img-fix {
+  width: 130px;
+  height: auto;
+  margin: -10px -10px -10px 0px;
+  padding: 4px 0px 4px 0px;
+}
+
+#homepage{
+  float: left;
+  font-size: 1.1em;
+  margin: 16px 10px 0px 10px;
+}
+
+#about-us {
+  float: right;
+  text-align: center;
+  font-size: 1.1em;
+  font-weight: bold;
+  margin-top: 20px;
+  margin-right: 10px;
+}
+
+/* Holds the content in the middle section, including the image */
+
+#content {
+  padding: 6px 3px 0px 3px;
+  text-align: center;
+  background: #DEDDDD;
+}
+.img-fix2 {
+  padding: 2px 0px 2px 0px;
+  width: 400px;
+  height: auto;
+}
+
+/* Holding the buttons */
+
+#row {            
+  display: flex;
+}
+
+.circle {
+  width: 90px;
+  max-width: 90px;
+  height: 90px;
+  border-radius: 50%;
+  font-size: 12pt;
+  line-height: 65px;
+  text-align: center;
+}
+
+.circle:active {
+  opacity: 0.7;
+}
+
+.col {
+  margin-left: auto;
+  margin-right: auto;
+  display: inline-block;
+}
+
+.recycle {
+  background: #3642E4;
+  color: #fff;
+}
+
+.garb {
+  background: #000;
+  color: #fff;
+}
+
+.paper {
+  background: #FDFD79;
+  color: #000;
+}
+
+.comp {
+  background: #36E442;
+  color: #000;
+}
+
+.other {
+  background: #D1C8C8;
+  color: #000;
+}
+
+/* Container for map and the id linked to its JavaScript file */
+
+#mapcontainer {
+  text-align: center; 
+}
+
+#mapid {
+  width: 900px;
+  height: 550px;
+  display: inline-block;
+}
+
+/* The Searchbar */
+
+#searchbar {
+  text-align: center;
+  display: flex;
+  padding: 10px;
+  width: 240px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#search {
+  display: inline-block;
+  width: 200px;
+}
+
+#searchButton {
+  display: inline-block;
+  width: 32px;
+}
+
+.icon-fix {
+  width: 14px;
+  height: auto;
+}
+
+a {
+  color: #2196F3;
+}
+
+.fields {
+  margin: 1%;
+  text-align: center;
+}
+
+.copyright{
+  display: inline-block;
+  color: #DAD8D1;
+}
+
+/* Making things responsive on lower screen size */    
+
+@media only screen and (max-width: 900px) {
+  
+  #mapid {
+    width: 95%;
+  }
+  
+  .copyright {
+    width: 60%;
+  }
+
+}
+
+@media only screen and (max-width: 400px) {
+  
+  .img-fix2 {
+    width: 95%;
+    height: auto;
+  }
+
+  .circle {
+    width: 78px;
+    height: 78px;
+    border-radius: 50%;
+    font-size: 11pt;
+    line-height: 65px;
+  }
+  
+}
+
+
+

@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>TRASHere</title>
+    <link href = "./CSS/index.css" rel="stylesheet" type="text/css">
+    
+    <link rel="shortcut icon" type="image/x-icon" href="docs/images/favicon.ico" />
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.4.0/dist/leaflet.css" integrity="sha512-puBpdR0798OZvTTbP4A8Ix/l+A4dHDD0DGqYW6RQ+9jxkRFclaxxQb/SJAWZfWAkuyeQUytO7+7N4QKrDh+drA==" crossorigin=""/>
+    <script src="https://unpkg.com/leaflet@1.4.0/dist/leaflet.js" integrity="sha512-QVftwZFqvtRNi0ZyCtsznlKSWOStnDORoefr1enyq5mVL4tmKB3S/EnC3rRJcxCPavG10IcrVGSmPh6Qw5lwrg==" crossorigin=""></script>
+</head>
+<body>
+    <!-- The top taskbar -->
+	<div id="top">
+        <a href="index.html" id="homepage"><img src="./Pictures/logo.png" class="img-fix" alt="TRASHere"/></a>
+        <a href="about.html" id="about-us">About Us</a>
+	</div>
+
+    <!-- The container for the content in the middle of the page -->
+    <div id="content">
+        <div>
+            <img src="./Pictures/logo.png" class="img-fix2" alt="TRASHere">
+        </div>
+        <p id="text">Choose a type of trash to throw away</p>
+        <div id="row">
+            <button id="recycling" class="circle recycle col">Recycling</button>
+            <button id="waste" class="circle garb col">Garbage</button>
+            <button id="compost" class="circle comp col">Compost</button>
+            <button id="paper" class="circle paper col">Paper</button>
+        </div><br>
+    </div><br>
+    
+    <!-- Holds the map, the map is tied to its JavaScript file -->
+    <div id="mapcontainer">
+        <div id="mapid"></div>
+    </div>
+    
+    <!-- Search bar to search for trash types and filters out the bins -->
+    <div id="searchbar">
+        <input type="text" id="search" placeholder="Search for other trash types">
+        <button type="submit" id="searchButton"><img src="./Pictures/search-icon.png" class="icon-fix" onclick="search()"></button>
+    </div>
+
+	<!-- Footer -->
+	<footer class="fields">
+        <p class="copyright">@Copyright 2019 by Team 09 2930. All Rights Reserved.</p>
+	</footer>
+
+    <!-- JavaScript is linked here -->
+   <script src="https://www.gstatic.com/firebasejs/6.0.2/firebase-app.js"></script>
+   <script src="https://www.gstatic.com/firebasejs/6.0.2/firebase-auth.js"></script>
+   <script src="https://www.gstatic.com/firebasejs/6.0.2/firebase-database.js"></script>
+
+   <script>
+      const firebaseConfig = {
+      apiKey: "AIzaSyD4o85AgKj_AEIKWqnne1CEskL7tqQvpOU",
+      authDomain: "trashere09.firebaseapp.com",
+      databaseURL: "https://trashere09.firebaseio.com",
+      projectId: "trashere09",
+      storageBucket: "trashere09.appspot.com",
+      messagingSenderId: "432917689538",
+      appId: "1:432917689538:web:b476eda1f65de16f"
+      };
+      firebase.initializeApp(firebaseConfig);
+   </script>
+
+   <script src="js/buttons.js"></script>
+   <script src="js/map.js"></script>
+   <script src="js/searchFunc.js"></script>
+</body>
+</html>

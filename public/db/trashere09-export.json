@@ -1,0 +1,1008 @@
+{
+  "BldngInfo" : {
+    
+    "SW01" : {
+      "BldngLat"     : 49.251174,
+      "BldngLong"    : -123.002779,
+      "waste"        : 1,
+      "recycling"    : 1,
+      "refundable"   : 1,
+      "paper"        : 1,
+      "organic"      : 1,
+      "battery"      : 1,
+      "softPlastic"  : 0,
+      "electronic"   : 0,
+      "clothesDrop"  : 0
+    },
+    
+    "SW02" : {
+      "BldngLat"     : 49.250393,
+      "BldngLong"    : -123.003468,
+      "waste"        : 1,
+      "recycling"    : 1,
+      "refundable"   : 1,
+      "paper"        : 1,
+      "organic"      : 1,
+      "battery"      : 1,
+      "softPlastic"  : 0,
+      "electronic"   : 0,
+      "clothesDrop"  : 0
+    },
+    
+    "SW03" : {
+      "BldngLat"     : 49.250067,
+      "BldngLong"    : -123.002653,
+      "waste"        : 1,
+      "recycling"    : 1,
+      "refundable"   : 1,
+      "paper"        : 1,
+      "organic"      : 1,
+      "battery"      : 0,
+      "softPlastic"  : 0,
+      "electronic"   : 0,
+      "clothesDrop"  : 0
+    },
+    
+    "SW05" : {
+      "BldngLat"     : 49.249724,
+      "BldngLong"    : -123.002617,
+      "waste"        : 1,
+      "recycling"    : 0,
+      "refundable"   : 1,
+      "paper"        : 1,
+      "organic"      : 0,
+      "battery"      : 0,
+      "softPlastic"  : 0,
+      "electronic"   : 0,
+      "clothesDrop"  : 0
+    },
+    
+    "SW09" : {
+      "BldngLat"     : 49.248567,
+      "BldngLong"    : -123.002857,
+      "waste"        : 1,
+      "recycling"    : 1,
+      "refundable"   : 1,
+      "paper"        : 1,
+      "organic"      : 1,
+      "battery"      : 1,
+      "softPlastic"  : 0,
+      "electronic"   : 0,
+      "clothesDrop"  : 0
+    },
+    
+    "SE01" : {
+      "BldngLat"     : 49.251153,
+      "BldngLong"    : -122.999092,
+      "waste"        : 1,
+      "recycling"    : 1,
+      "refundable"   : 1,
+      "paper"        : 1,
+      "organic"      : 1,
+      "battery"      : 0,
+      "softPlastic"  : 0,
+      "electronic"   : 0,
+      "clothesDrop"  : 0
+    },
+    
+    "SE02" : {
+      "BldngLat"     : 49.251379,
+      "BldngLong"    : -123.001241,
+      "waste"        : 1,
+      "recycling"    : 1,
+      "refundable"   : 1,
+      "paper"        : 1,
+      "organic"      : 1,
+      "battery"      : 0,
+      "softPlastic"  : 0,
+      "electronic"   : 1,
+      "clothesDrop"  : 1
+    },
+    
+    "SE04" : {
+      "BldngLat"     : 49.251376,
+      "BldngLong"    : -123.000236,
+      "waste"        : 1,
+      "recycling"    : 1,
+      "refundable"   : 1,
+      "paper"        : 1,
+      "organic"      : 1,
+      "battery"      : 0,
+      "softPlastic"  : 0,
+      "electronic"   : 0,
+      "clothesDrop"  : 0
+    },
+    
+    "SE06" : {
+      "BldngLat"     : 49.250897,
+      "BldngLong"    : -123.000582,
+      "waste"        : 1,
+      "recycling"    : 1,
+      "refundable"   : 1,
+      "paper"        : 1,
+      "organic"      : 1,
+      "battery"      : 1,
+      "softPlastic"  : 1,
+      "electronic"   : 0,
+      "clothesDrop"  : 0
+    },
+    
+    "SE10" : {
+      "BldngLat"     : 49.249900,
+      "BldngLong"    : -123.000510,
+      "waste"        : 1,
+      "recycling"    : 1,
+      "refundable"   : 1,
+      "paper"        : 1,
+      "organic"      : 1,
+      "battery"      : 1,
+      "softPlastic"  : 0,
+      "electronic"   : 0,
+      "clothesDrop"  : 0
+    },
+    
+    "SE12" : {
+      "BldngLat"     : 49.249989,
+      "BldngLong"    : -123.001612,
+      "waste"        : 1,
+      "recycling"    : 1,
+      "refundable"   : 1,
+      "paper"        : 1,
+      "organic"      : 1,
+      "battery"      : 0,
+      "softPlastic"  : 0,
+      "electronic"   : 0,
+      "clothesDrop"  : 0
+    },
+    
+    "SE14" : {
+      "BldngLat"     : 49.249469,
+      "BldngLong"    : -123.000890,
+      "waste"        : 1,
+      "recycling"    : 1,
+      "refundable"   : 1,
+      "paper"        : 1,
+      "organic"      : 1,
+      "battery"      : 1,
+      "softPlastic"  : 0,
+      "electronic"   : 0,
+      "clothesDrop"  : 0
+    },
+    
+    "SE16" : {
+      "BldngLat"     : 49.248829,
+      "BldngLong"    : -123.001043,
+      "waste"        : 1,
+      "recycling"    : 1,
+      "refundable"   : 1,
+      "paper"        : 1,
+      "organic"      : 1,
+      "battery"      : 1,
+      "softPlastic"  : 0,
+      "electronic"   : 0,
+      "clothesDrop"  : 0
+    },
+    
+    "NW03" : {
+      "BldngLat"     : 49.253278,
+      "BldngLong"    : -123.002657,
+      "waste"        : 1,
+      "recycling"    : 1,
+      "refundable"   : 0,
+      "paper"        : 1,
+      "organic"      : 1,
+      "battery"      : 0,
+      "softPlastic"  : 0,
+      "electronic"   : 0,
+      "clothesDrop"  : 0
+    },
+    
+    "NW05" : {
+      "BldngLat"     : 49.252526,
+      "BldngLong"    : -123.002272,
+      "waste"        : 1,
+      "recycling"    : 1,
+      "refundable"   : 0,
+      "paper"        : 1,
+      "organic"      : 1,
+      "battery"      : 0,
+      "softPlastic"  : 0,
+      "electronic"   : 0,
+      "clothesDrop"  : 0
+    },
+    
+    "NW06" : {
+      "BldngLat"     : 49.252109,
+      "BldngLong"    : -123.002422,
+      "waste"        : 1,
+      "recycling"    : 0,
+      "refundable"   : 1,
+      "paper"        : 1,
+      "organic"      : 0,
+      "battery"      : 0,
+      "softPlastic"  : 0,
+      "electronic"   : 0,
+      "clothesDrop"  : 0
+    },
+    
+    "NE01" : {
+      "BldngLat"     : 49.254142,
+      "BldngLong"    : -123.001032,
+      "waste"        : 1,
+      "recycling"    : 1,
+      "refundable"   : 1,
+      "paper"        : 1,
+      "organic"      : 1,
+      "battery"      : 0,
+      "softPlastic"  : 0,
+      "electronic"   : 0,
+      "clothesDrop"  : 0
+    },
+    
+    "NE22" : {
+      "BldngLat"     : 49.252479,
+      "BldngLong"    : -123.001731,
+      "waste"        : 1,
+      "recycling"    : 1,
+      "refundable"   : 1,
+      "paper"        : 0,
+      "organic"      : 1,
+      "battery"      : 0,
+      "softPlastic"  : 0,
+      "electronic"   : 0,
+      "clothesDrop"  : 0
+    }
+  },
+  
+  "TrashType" : {
+    
+    "ac adapter" : {
+      "type" : "electronic"
+    },
+
+    "acorn" : {
+      "type" : "organic"
+    },
+
+    "aerosol can" : {
+      "type" : "recycling"
+    },
+
+    "air conditioner" : {
+      "type" : "electronic"
+    },
+
+    "air freshener" : {
+      "type" : "recycling"
+    },
+
+    "air purifiers" : {
+      "type" : "electronic"
+    },
+
+    "alarm clock" : {
+      "type" : "electronic"
+    },
+
+    "alcohol bottles" : {
+      "type" : "recycling"
+    },
+
+    "aluminum cans" : {
+      "type" : "recycling"
+    },
+
+    "aluminum foil" : {
+      "type" : "recycling"
+    },
+
+    "aluminum foil baking trays" : {
+      "type" : "recycling"
+    },
+
+    "amplifier" : {
+      "type" : "electronic"
+    },
+    
+    "baby Formula" : {
+      "type" : "recycling"
+    },
+
+    "baby wipes" : {
+      "type" : "waste"
+    },
+
+    "baked goods" : {
+      "type" : "organic"
+    },
+
+    "balloons" : {
+      "type" : "organic"
+    },
+
+    "bamboo" : {
+      "type" : "organic"
+    },
+
+    "bandages" : {
+      "type" : "organic"
+    },
+
+    "banner" : {
+      "type" : "organic"
+    },
+
+    "bar soap" : {
+      "type" : "organic"
+    },
+
+    "batteries" : {
+      "type" : "battery"
+    },
+
+    "bbq briquettes" : {
+      "type" : "organic"
+    },
+
+    "beard trimmer" : {
+      "type" : "electronic"
+    },
+
+    "beer bottles" : {
+      "type" : "recycling"
+    },
+
+    "beer cans" : {
+      "type" : "recycling"
+    },
+
+    "beverage containers" : {
+      "type" : "recycling"
+    },
+
+    "bike Frame" : {
+      "type" : "recycling"
+    },
+
+    "bike light" : {
+      "type" : "recycling"
+    },
+    
+    "christmas Lights" : {
+      "type" : "electronic"
+    },
+    
+    "cigarettes" : {
+      "type" : "waste"
+    },
+
+    "clock" : {
+      "type" : "electronic"
+    },
+    
+    "cocoa" : {
+      "type" : "organic"
+    },
+    
+    "clothing" : {
+      "type" : "clothesDrop"
+    },
+
+    "coffee bag" : {
+      "type" : "paper"
+    },
+
+    "coffee cup" : {
+      "type" : "recycling"
+    },
+    
+    "coffee filters" : {
+      "type" : "organic"
+    },
+    
+    "coffee maker" : {
+      "type" : "electronic"
+    },
+    
+    "computer" : {
+      "type" : "electronic"
+    },
+    
+    "computer cables" : {
+      "type" : "electronic"
+    },
+    
+    "condom" : {
+      "type" : "waste"
+    },
+
+    "contact Lenses" : {
+      "type" : "waste"
+    },
+
+    "cooking oil" : {
+      "type" : "recycling"
+    },
+    
+    "cosmetics" : {
+      "type" : "waste"
+    },
+
+    "credit card" : {
+      "type" : "waste"
+    },
+
+    "curry" : {
+      "type" : "organic"
+    },
+    
+    "cycling machine" : {
+      "type" : "electronic"
+    },
+    
+    "dairy products" : {
+      "type" : "organic"
+    },
+    
+    "deep fryers" : {
+      "type" : "electronic"
+    },
+    
+    "desk lamp" : {
+      "type" : "recycling"
+    },
+    
+    "detergent bottle" : {
+      "type" : "recycling"
+    },
+    
+    "diaper" : {
+      "type" : "waste"
+    },
+
+    "dishes" : {
+      "type" : "waste"
+    },
+
+    "dishwasher" : {
+      "type" : "recycling"
+    },
+    
+    "dog bone" : {
+      "type" : "organic"
+    },
+    
+    "dog waste" : {
+      "type" : "waste"
+    },
+
+    "dried flowers" : {
+      "type" : "organic"
+    },
+    
+    "dryer" : {
+      "type" : "electronic"
+    },
+    
+    "dvd" : {
+      "type" : "electronic"
+    },
+    
+    "egg carton" : {
+        "type" : "recycling"
+    },
+    
+    "eggs" : {
+        "type" : "organic"
+    },
+    
+    "eggshells" : {
+        "type" : "organic"
+    },
+      
+    "electrical motor" : {
+        "type" : "electronic"
+    },
+      
+    "electrical panel" : {
+        "type" : "electronic"
+    },
+      
+    "electric knife" : {
+        "type" : "electronic"
+    },
+    
+    "electric shaver" : {
+        "type" : "electronic"
+    },
+    
+    "envelope" : {
+        "type" : "paper"
+    },
+    
+    "fabric softener container" : {
+        "type" : "recycling"
+    },
+      
+    "facial tissue" : {
+        "type" : "organic"
+    },
+      
+    "fan" :{
+        "type" : "electronic"
+    },
+      
+    "fax machine" : {
+        "type" : "electronic"
+    },
+      
+    "feminine hygiene products" : {
+        "type" : "waste"
+    },
+    
+    "file folders" : {
+        "type" : "paper"
+    },
+    
+    "fine paper" : {
+        "type" : "paper"
+    },
+      
+    "fish" : {
+        "type" : "organic"
+    },
+      
+    "flash drive" : {
+        "type" : "electronic"
+    },
+    
+    "flashlight" : {
+        "type" : "recycling"
+    },
+    
+    "floor lamp" : {
+        "type" : "recycling"
+    },
+    
+    "flour" : {
+        "type" : "organic"
+    },
+      
+    "flour bags" : {
+        "type" : "paper"
+    },
+    
+    "flowers" : {
+        "type" : "organic"
+    },
+    
+    "flyers" : {
+        "type" : "paper"
+    },
+    
+    "food steamer" : {
+        "type" : "electronic"
+    },
+    
+    "fruit" : {
+        "type" : "organic"
+    },
+    "gift bag" : {
+        "type" : "paper"
+    },
+    
+    "gift bows" : {
+        "type" : "waste"
+    },
+    
+    "gift boxes" : {
+        "type" : "paper"
+    },
+    
+    "gift wrap" : {
+        "type" : "paper"
+    },
+    
+    "glass bottles" : {
+        "type" : "recycling"
+    },
+    
+    "glue bottles" : {
+        "type" : "waste"
+    },
+    
+    "grapes bag" : {
+        "type" : "recycling"
+    },
+    
+    "grease" : {
+        "type" : "organic"
+    },
+    
+    "griddle" : {
+        "type" : "electronic"
+    },
+    
+    "grocery bag" : {
+        "type" : "recycling"
+    },
+    
+    "hair curler" : {
+        "type" : "electronic"
+    },
+    
+    "hair dryer" : {
+        "type" : "electronic"
+    },
+    
+    "hair" : {
+        "type" : "waste"
+    },
+    
+    "hair straightener" : {
+        "type" : "electronic"
+    },
+    
+    "headphones" : {
+        "type" : "electronic"
+    },
+    
+    "helmet" : {
+        "type" : "recycling"
+    },
+    
+    "houseplants" : {
+        "type" : "organic"
+    },
+    
+    "ice cream carton" : {
+        "type" : "waste"
+    },
+    
+    "ice cream maker" : {
+        "type" : "electronic"
+    },
+    
+    "ice cream tub" : {
+        "type" : "recycling"
+    },
+    
+    "index card" : {
+        "type" : "paper"
+    },
+    
+    "jacket" : {
+        "type" : "clothesDrop"
+    },
+    
+    "jam jar" : {
+        "type" : "recycling"
+    },
+    
+    "jewel case" : {
+        "type" : "waste"
+    },
+    
+    "jointer" : {
+        "type" : "electronic"
+    },
+    
+    "juice box" : {
+        "type" : "paper"
+    },
+    
+    "junk mail" : {
+        "type" : "paper"
+    },
+    
+    "karaoke machine" : {
+        "type" : "electronic"
+    },
+    
+    "ketchup bottle" : {
+        "type" : "recycling"
+    },
+    
+    "kettle" : {
+        "type" : "electronic"
+    },
+    
+    "keyboard" : {
+        "type" : "electronic"
+    },
+    
+    "kfc bucket" : {
+        "type" : "paper"
+    },
+    
+    "knitting machine" : {
+        "type" : "electronic"
+    },
+    
+    "lamp" : {
+        "type" : "recycling"
+    },
+    
+    "lamp holder" : {
+        "type" : "recycling"
+    },
+    
+    "laptop" : {
+        "type" : "electronic"
+    },
+    
+    "latex rubber gloves" : {
+        "type" : "waste"
+    },
+    
+    "laundry detergent box" : {
+        "type" : "paper"
+    },
+    
+    "led light" : {
+        "type" : "recycling"
+    },
+    
+    "leaves" : {
+        "type" : "organic"
+    },
+    
+    "leftovers" : {
+        "type" : "organic"
+    },
+    
+    "light box" : {
+        "type" : "electronic"
+    },
+    
+    "loose tea" : {
+        "type" : "organic"
+    },
+    
+    "magazines" : {
+        "type" : "paper"
+    },
+    
+    "magnet" : {
+        "type" : "waste"
+    },
+    
+    "masking tape" : {
+        "type" : "waste"
+    },
+    
+    "mat" : {
+        "type" : "waste"
+    },
+    
+    "match" : {
+        "type" : "waste"
+    },
+    
+    "mayonnaise" : {
+        "type" : "organic"
+    },
+    
+    "milk bag" : {
+        "type" : "waste"
+    },
+    
+    "milk jug" : {
+        "type" : "recycling"
+    },
+    
+    "mouse" : {
+        "type" : "electronic"
+    },
+    
+    "mp3 player" : {
+        "type" : "electronic"
+    },
+    
+    "mustard bottle" : {
+        "type" : "recycling"
+    },
+    
+    "nail clippings" : {
+        "type" : "organic"
+    },
+    
+    "nail polish" : {
+        "type" : "waste"
+    },
+    
+    "nespresso pods" : {
+        "type" : "recycling"
+    },
+    
+    "newspaper" : {
+        "type" : "paper"
+    },
+    
+    "nuts" : {
+        "type" : "organic"
+    },
+    
+    "oatmeal" : {
+        "type" : "organic"
+    },
+    
+    "oats" : {
+        "type" : "organic"
+    },
+    
+    "onion bag" : {
+        "type" : "recycling"
+    },
+    
+    "packing paper" : {
+        "type" : "paper"
+    },
+    
+    "paper" : {
+        "type" : "paper"
+    },
+    
+    "paper bags" : {
+        "type" : "paper"
+    },
+    
+    "paper cups" : {
+        "type" : "recycling"
+    },
+    
+    "paper napkin" : {
+        "type" : "organic"
+    },
+    
+    "paper plates" : {
+        "type" : "organic"
+    },
+    
+    "paper towel rolls" : {
+        "type" : "paper"
+    },
+     
+    "parking ticket" : {
+      "type" : "waste",
+      "message" : "Please pay your ticket before disposing :)"
+    },
+    
+    "pasta" : {
+        "type" : "organic"
+    },
+    
+    "peanut butter" : {
+        "type" : "organic"
+    },
+    
+    "pencil shavings" : {
+        "type" : "waste"
+    },
+    
+    "popcorn" : {
+        "type" : "organic"
+    },
+    
+    "plastic bag" : {
+        "type" : "softPlastic"
+    },
+    
+    "radio" : {
+        "type" : "electronic"
+    },
+    
+    "rice bag" : {
+        "type" : "recycling"
+    },
+    
+    "rice" : {
+        "type" : "organic"
+    },
+    
+    "rubber band" : {
+        "type" : "waste"
+    },
+    
+    "router" : {
+        "type" : "electronic"
+    },
+    
+    "salad dressing" : {
+        "type" : "organic"
+    },
+    
+    "sauce" : {
+        "type" : "organic"
+    },
+    
+    "scissors" : {
+        "type" : "recycling"
+    },
+    
+    "seafood" : {
+        "type" : "organic"
+    },
+    
+    "seeds" : {
+        "type" : "organic"
+    },
+    
+    "shoe box" : {
+        "type" : "paper"
+    },
+    
+    "soap" : {
+        "type" : "organic"
+    },
+    
+    "speakers" : {
+        "type" : "electronic"
+    },
+    
+    "sugar" : {
+        "type" : "organic"
+    },
+    
+    "tea" : {
+        "type" : "organic"
+    },
+    
+    "textbook" : {
+        "type" : "paper"
+    },
+    
+    "tissue" : {
+        "type" : "waste"
+    },
+    
+    "toothbrush" : {
+        "type" : "waste"
+    },
+    
+    "turkey" : {
+        "type" : "organic"
+    },
+    
+    "tree stump" : {
+        "type" : "organic"
+    },
+    
+    "umbrella" : {
+        "type" : "waste"
+    },
+    
+    "vacuum bag" : {
+        "type" : "waste"
+    },
+    
+    "vcr or dvd player" : {
+        "type" : "electronic"
+    },
+    
+    "vegetables" : {
+        "type" : "organic"
+    },
+    
+    "wallpaper" : {
+        "type" : "waste"
+    },
+    
+    "wrappers" : {
+        "type" : "recycling"
+    },
+    
+    "writing paper" : {
+        "type" : "paper"
+    },
+    
+    "yogurt" : {
+        "type" : "organic"
+    },
+    
+    "zipper" : {
+        "type" : "recycling"
+    }
+  }
+}
+

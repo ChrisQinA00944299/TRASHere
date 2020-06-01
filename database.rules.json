@@ -1,0 +1,45 @@
+{
+  "rules": {
+    ".read": true,
+    ".write": false,
+    "BldngInfo": {
+      ".indexOn": ["BldngLat", "BldngLong", "battery", "clothesDrop", "electronic", 
+                   "organic", "paper", "recycling", "refundable", "softPlastic", 
+                   "waste"]
+    },
+    
+    "TrashType" :{
+      ".indexOn": ["acorn", "ac adapter", "aerosol can", "air conditioner", "air freshener",
+                   "air purifier", "alarm clock", "alcohol bottles", "aluminum cans", 
+                   "aluminum foil", "amplifier", "baby formula", "baby wipes", "baked goods",
+                   "balloons", "bamboo", "bandages", "bar soap", "batteries", "beard trimmer",
+                   "beer bottles", "beer cans", "beverage containers", "christmas lights",
+                   "cigarettes", "clock", "cocoa", "clothing", "coffee bag", "coffee cup",
+                   "coffee filters", "coffee maker", "computer", "computer cables", "condom",
+                   "contact lenses", "cooking oil", "cosmetics", "credit card", "cycling machine",
+                   "dairy products", "deep fryers", "desk lamp", "detergent bottle", "diaper",
+                   "dishes", "dishwasher", "dog bone", "dog waste", "dried flowers", "dryer", 
+                   "dvd", "egg carton", "eggs",  "eggshells", "electrical motor", "electrical panel",
+                   "electric knife", "electric shaver", "envelope", "fabric softener container", 
+                   "facial tissue", "fan", "fax machine", "feminine hygiene products", "file folders",
+                   "fine paper", "fish", "flash drive", "flashlight", "floor lamp", "flour", "flour bags",
+                   "flowers", "flyers", "food steamer", "fruit", "gift bag", "gift bows", "gift boxes",
+                   "gift wrap", "glass bottles", "glue bottles", "grapes bag", "grease", "griddle",
+                   "grocery bag", "hair curler", "hair dryer", "hair", "hair straightener", "headphones",
+                   "helmet", "houseplants", "ice cream carton", "ice cream maker", "ice cream tub",
+                   "index card", "jacket", "jam jar", "jewel case", "jointer", "juice box", "junk mail",
+                   "karaoke machine", "ketchup bottle", "kettle", "keyboard", "kfc bucket", "knitting machine",
+                   "lamp", "lamp holder", "laptop", "latex rubber gloves", "laundry detergent box", "led light",
+                   "leaves", "leftovers", "light box", "loose tea", "magazines", "magnet", "masking tape", 
+                   "mat", "match", "mayonnaise", "milk bag", "milk jug", "mouse", "mp3 player", "mustard bottle",
+                   "nail clippings", "nail polish", "nespresso pods", "newspaper", "nuts", "oatmeal", "oats",
+                   "onion bag", "packing paper", "paper", "paper bags", "paper cups", "paper napkin",
+                   "paper plates", "paper towel rolls", "parking ticket", "pasta", "peanut butter", 
+                   "pencil shavings", "popcorn", "plastic bag", "radio", "rice bag", "rice", "rubber band",
+                   "router", "salad dressing", "sauce", "scissors", "seafood", "seeds", "shoe box", "soap",
+                   "speakers", "sugar", "tea", "textbook", "tissue", "toothbrush", "turkey", "tree stump",
+                   "umbrella", "vacuum bag", "vcr or dvd player",  "vegetables", "wallpaper", "wrappers",
+                   "writing paper", "yogurt", "zipper"]
+    }
+  }
+}

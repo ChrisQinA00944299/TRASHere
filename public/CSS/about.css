@@ -1,0 +1,214 @@
+body, h1, p {
+  font-family: sans-serif;
+}
+
+body {
+  padding: 0;
+  margin: 0;
+}
+
+#Taskbar {
+  width: 100%;
+  height: auto;
+  background-color: #D1C8C8;
+}
+
+#Home{
+  margin: 10px 10px 10px 10px;
+  width: 130px;
+  height: auto;
+}
+
+#element1 {
+  width: 100%;
+  padding-bottom: 40px;
+  text-align: center;
+  margin: 50px auto;
+  padding-top: 40px;
+  margin-top: 0;
+  margin-bottom: 25px;
+  background-image: url(../Pictures/forest.jpg);
+}
+
+#element2 {
+  border-top: dashed;
+  padding-top: 120px;
+  padding-bottom: 120px;
+  border-bottom: dashed;
+  margin: 50px auto;
+  margin-top: 0;
+  margin-bottom: 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  width: 75%;
+}
+
+#element3 {
+  margin: 60px auto;
+  padding-top: 60px;
+}
+
+#info {
+  display: flex;
+  flex-flow: row;
+  justify-content: space-evenly;
+}
+
+#video {
+  display: inline-block;
+  border-style: solid;
+  border-width: 10px;
+  border-color: dimgray;
+  width: 90%;
+}
+
+#Left {
+  width: 50%;
+}
+
+#Right {
+  width: 50%;
+}
+
+.header {
+  text-align: center;
+  font-size: 24pt
+}
+
+.text {
+  text-align: center, justify;
+  margin: 10px 10px;
+}
+      
+.contact {
+  font-size: 14pt;
+}
+
+/* bio css for the picture name description and information*/
+.bio{
+  margin-top: 100px;
+  display: flex;
+  flex-flow: row;
+}
+
+.picture{
+  height: 150px;
+  width: 150px;
+  border-radius: 50%;
+  border-color: light  grey;
+  border-width: 2px;
+  border-style: solid;
+  display: inline-block;
+}
+
+.profile{
+  width: 30%;
+  text-align: center;
+}
+
+.information{
+  width: 60%;
+
+}
+
+.biotext{
+  margin: 20px 10px;
+}
+
+@media only screen and (max-width: 768px){
+
+  #Home {
+    height: auto;
+    width: 350px;
+  }
+
+  #Taskbar {
+    height: auto;
+    min-width: 100%;
+  }
+  
+  #element1 {
+    padding-top: 195px;
+    padding-bottom: 195px;
+    min-width: 768;
+    height: auto;
+  }
+  
+  #element2 {
+    flex-direction: column;
+  }
+  
+  .header {
+    font-size: 24pt;
+    font-weight: bold;
+  }
+
+  #Right {
+    margin-top: 50px;
+    width: 100%;
+  }
+  
+  #Left {
+    width: 100%;
+  }
+
+  .text {
+    font-size: 1.2em;
+    text-align: left, justify;
+  }
+  
+}
+
+@media only screen and (max-width: 500px){
+  
+  #Taskbar {
+    height: auto;
+    min-width: 100%;
+  }
+  
+  #element1 {
+    padding-top: 160px;
+    padding-bottom: 160px;
+    min-width: 100%;
+  }
+  
+  #element2 {
+    padding-top: 30px;
+    flex-direction: column;
+  }
+  
+  .text {
+    font-size: 1em;
+  }
+  
+  #Home {
+    width: 200px;
+  }
+
+  .bio {
+    display: flex;
+    flex-flow: column;
+    align-content: center;
+  }
+  
+  #Right {
+    width: 100%;
+  }
+  
+  #Left {
+    width: 100%;
+  }
+
+  .profile, .information {
+    display: inline-block;
+    width: 100%;
+    font-size: 1.2em;
+  }
+  
+  .information {
+    width: 100%;
+    font-size: 1em;
+  }
+  
+}
